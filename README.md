@@ -1,4 +1,4 @@
-# Projeto Ciência de Dados - Notebook sobre Resíduos de Lixo na Pandemia
+# Projeto Ciência de Dados - Notebook Análise Covid 19 no Brasil e no mundo
 
 * Universidade nove de julho
 * Ciência da Computação
