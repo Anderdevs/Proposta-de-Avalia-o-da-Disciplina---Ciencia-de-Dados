@@ -23,4 +23,4 @@ Storopoli (2021, november 10). Ciência de Dados com Python: pandas, matplotlib,
 
 ## Conteúdo:
 
-Nosso projeto é baseado em um dos assuntos dá atualidade o Coronavírus, que surgiu em 2019, ocasionando uma pandemia, que dura até os dias de hoje.
+Nosso projeto é baseado em um dos assuntos dá atualidade o Coronavírus, que surgiu em dezembro de 2019, na China, ocasionando uma epidemia e teve sua evolução no mundo como uma pandemia, que dura até os dias de hoje.
