@@ -3,10 +3,8 @@
 * Universidade nove de julho
 * Ciência da Computação
 
-
 ## Integrantes
  
-
 * Alex Santos - RA 2220106587
 * Anderson Maciel - RA 2218201822
 * Bruno Leonardo - RA 2218201618
@@ -16,10 +14,6 @@
 ## Professor
 
 Prof. Dr. José Eduardo Storopoli
-
-```
-Storopoli (2021, november 10). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/Computacao-Cientifica/
-```
 
 ## Conteúdo:
 
