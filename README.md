@@ -22,7 +22,8 @@ Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, sci
 ## Conteúdo:
 
 ```
+https://ourworldindata.org/coronavirus
+
 https://github.com/owid/covid-19-data/tree/master/public/data
 ```
-
 Nosso projeto é baseado em um dos assuntos dá atualidade o Coronavírus, que surgiu em dezembro de 2019, na China, ocasionando uma epidemia e teve sua evolução no mundo como uma pandemia, que dura até os dias de hoje.
