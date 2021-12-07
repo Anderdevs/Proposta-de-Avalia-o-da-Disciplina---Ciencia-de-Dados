@@ -15,6 +15,14 @@
 
 Prof. Dr. José Eduardo Storopoli
 
+```
+Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
+```
+
 ## Conteúdo:
+
+```
+https://github.com/owid/covid-19-data/tree/master/public/data
+```
 
 Nosso projeto é baseado em um dos assuntos dá atualidade o Coronavírus, que surgiu em dezembro de 2019, na China, ocasionando uma epidemia e teve sua evolução no mundo como uma pandemia, que dura até os dias de hoje.
